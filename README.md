@@ -1,2 +1,2 @@
 # B02
-# Boys Lab
+# Males Lab
