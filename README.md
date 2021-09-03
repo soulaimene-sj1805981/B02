@@ -1,2 +1,2 @@
 # B02
-# Girls Lab
+# Boys Lab
